@@ -1,10 +1,10 @@
 # Example of how to create AMI on AWS with Packer
 
-##You beed 1st to install packer**
+## You beed 1st to install packer**
 
 `brew install packer`
 
-##Fork this repo**
+## Fork this repo**
 
 You need to make env variables for your AWS keys
 ```
